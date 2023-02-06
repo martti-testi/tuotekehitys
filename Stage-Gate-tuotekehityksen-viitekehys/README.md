@@ -1,4 +1,4 @@
-![SeAMK-logo](/images/tuotekehitys-logo.PNG)
+![Tuotekehityshankkeen logo.](/Stage-Gate-tuotekehityksen-viitekehys/images/tuotekehitys-logo.PNG)
 
 # Stage-Gate tuotekehityksen viitekehys 
 
