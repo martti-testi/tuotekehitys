@@ -1,4 +1,4 @@
-![Tuotekehityshankkeen logo.](/Stage-Gate-tuotekehityksen-viitekehys/images/tuotekehitys-logo.PNG)
+![Tuotekehityshankkeen logo.](/images/tuotekehitys-logo.PNG)
 
 # Stage-Gate tuotekehityksen viitekehys 
 
