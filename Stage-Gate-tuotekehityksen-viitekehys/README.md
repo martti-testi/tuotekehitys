@@ -47,8 +47,8 @@ Stage-Gate on uustuotekehityksessä yleisesti käytetty viitekehys, joka jakaa t
 
 |Nimi|Linkki|
 |---|---|
-| Stage-gate tuotekehityksen viitekehys |[![Stage-Gate-viitekehys](images/PDF_32.png)](/Stage-Gate-tuotekehityksen-viitekehys/content/stage-gate-tuotekehityksen-viitekehys.pdf) [Stage-Gate-viitekehys pdf-muodossa](/content/stage-gate-tuotekehityksen-viitekehys.pdf)  |
-| Stage-gate tuotekehityksen viitekehys -Youtube-video |[![Stage-Gate-viitekehys](/images/stage-gate-malli-testi.PNG)](http://www.youtube.com/watch?v=UrYm6cSArHI)|
+| Stage-gate tuotekehityksen viitekehys |![Stage-Gate-viitekehys.](images/PDF_32.png) [Stage-Gate-viitekehys pdf-muodossa.](content/stage-gate-tuotekehityksen-viitekehys.pdf)  |
+| Stage-gate tuotekehityksen viitekehys -Youtube-video |[![Stage-Gate-viitekehys](images/stage-gate-malli-testi.PNG)](http://www.youtube.com/watch?v=UrYm6cSArHI)|
 
 Ohessa linkki yhteistyörobotiikan koneturvallisuusnäkökulmiin, joita VTT on tutkielmassaan esittänyt
 [Ohessa linkki](/content/VTT_Sgn_CobotSafety2022.pdf)
